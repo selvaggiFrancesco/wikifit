@@ -36,7 +36,12 @@ Requisiti di sistema:
 -funzione help: il sito deve essere supportato da un team di assistenza tecnica in grado di rispondere alle richieste degli utenti e risolvere eventuali problemi tecnici<br>
 <br><br><br>
 
-il sito è formato da tre grandi sezioni: "esplora" è un insieme di informazioni riguardanti gli esercizi e i piani di allenamento, informando l'utente e ampliando la sua conoscenza. "allenati" fornisce un confronto tra personal trainer e clienti, in modo tale da creare piani di allenamento e schede personalizzate alle esigenze di chi si deve allenare (il profilo del personal trainer sarà compilato da lui/lei stesso/a, allegando certificazioni e specializzazioni in modo tale da essere raggiunto da clienti con obiettivi che coincidono con la preparazione e l'esperienza del trainer). "acquista" è come se fosse un negozio online di integratori e accessori per la palestra, è presente una raccolta punti che, in base al punteggio permette di ricevere sconti, avere la consegna gratis e riscuotere prodotti in omaggio.<br>
+il sito è formato da tre grandi sezioni: "esplora" è un insieme di informazioni riguardanti gli esercizi e i piani di allenamento, informando l'utente e ampliando la sua conoscenza. "allenati" fornisce un confronto tra personal trainer e clienti, in modo tale da creare piani di allenamento e schede personalizzate alle esigenze di chi si deve allenare (il profilo del personal trainer sarà compilato da lui/lei stesso/a, allegando certificazioni e specializzazioni in modo tale da essere raggiunto da clienti con obiettivi che coincidono con la preparazione e l'esperienza del trainer). "acquista" è come se fosse un negozio online di integratori e accessori per la palestra, è presente una raccolta punti che, in base al punteggio permette di ricevere sconti, avere la consegna gratis e riscuotere prodotti in omaggio.<br><br>
+
+STUDIO DI FATTIBILITA':<br>
+i costi saranno principalmente caratterizzati dalla creazione e manutenzione del sito, e della rivendita dei prodotti.<br>
+le fonti di guadagno sono caratterizzate da una percentuale dei servizi venduti dai trainer e dalla rivendita dei prodotti, inoltre è presente una funzione che permette ai trainer di aumentare la loro visibilità per un periodo limitato di tempo
+all'interno del sito pagando un abbonamento.
 
 
 
