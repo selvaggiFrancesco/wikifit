@@ -49,15 +49,12 @@ all'interno del sito pagando un abbonamento.
 
 
 
-[cliente]-(Sign In)
-[cliente]-(acquisto prodotti)
-[cliente]-(acquisto schede)
-(acquisto prodotti)>(prodotti fitness)
-(acquisto prodotti)>(Checkout)
-[trainer]-(vendita schede)
-(acquisto schede)<(accumulo punti)
-(acquisto prodotti)<(accumulo punti)
+[cliente]-(Sign In),
+[cliente]-(acquisto prodotti),
+[cliente]-(acquisto schede),
+(acquisto prodotti)>(prodotti fitness),
+(acquisto prodotti)>(Checkout),
+[trainer]-(vendita schede),
+(acquisto schede)<(accumulo punti),
+(acquisto prodotti)<(accumulo punti),
 (vendita schede)>(autenticazione trainer)
-
-
-
