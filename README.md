@@ -57,5 +57,5 @@ all'interno del sito pagando un abbonamento.
 [trainer]-(vendita schede),
 (acquisto schede)<(accumulo punti),
 (acquisto prodotti)<(accumulo punti),
-(vendita schede)>(autenticazione trainer)
+(vendita schede)>(autenticazione trainer)<br>
 <img src="http://yuml.me/diagram/scruffy/usecase/[cliente]-(Sign In),[cliente]-(acquisto prodotti),[cliente]-(acquisto schede),(acquisto prodotti)>(prodotti fitness),(acquisto prodotti)>(Checkout),[trainer]-(vendita schede),(acquisto schede)<(accumulo punti),(acquisto prodotti)<(accumulo punti),(vendita schede)>(autenticazione trainer)" >
