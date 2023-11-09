@@ -52,13 +52,21 @@ all'interno del sito pagando un abbonamento.
 
 
 
-[cliente]-(Sign In),
-[cliente]-(acquisto prodotti),
-[cliente]-(acquisto schede),
-(acquisto prodotti)>(prodotti fitness),
-(acquisto prodotti)>(Checkout),
-[trainer]-(vendita schede),
-(acquisto schede)<(accumulo punti),
-(acquisto prodotti)<(accumulo punti),
-(vendita schede)>(autenticazione trainer)<br>
-<img src="http://yuml.me/diagram/scruffy/usecase/[cliente]-(Sign In),[cliente]-(acquisto prodotti),[cliente]-(acquisto schede),(acquisto prodotti)>(prodotti fitness),(acquisto prodotti)>(Checkout),[trainer]-(vendita schede),(acquisto schede)<(accumulo punti),(acquisto prodotti)<(accumulo punti),(vendita schede)>(autenticazione trainer)" >
+[cliente]-(Sign In), [cliente]-(acquisto prodotti), 
+[cliente]-(acquisto schede), 
+(acquisto prodotti)>(prodotti fitness), 
+(acquisto prodotti)>(Checkout), 
+[trainer]-(vendita schede), 
+(acquisto schede)<(accumulo punti), 
+(acquisto prodotti)<(accumulo punti), 
+(vendita schede)>(autenticazione trainer),
+[moderatore]-(gestire l'ordine nel forum),
+(gestire l'ordine nel forum)<(chiudere discussioni),
+(gestire l'ordine nel forum)<(rispondere a domande),
+[amministratore]-(modifica forum),
+(modifica forum)<(apportare cambiamenti),
+(modifica forum)<(espellere e creare utenti),
+[cliente]-(utilizzo forum),
+[amministratore]-(utilizzo forum),
+[moderatore]-(utilizzo forum)<br>
+<img src="http://yuml.me/diagram/scruffy/usecase/[cliente]-(Sign In), [cliente]-(acquisto prodotti), [cliente]-(acquisto schede), (acquisto prodotti)>(prodotti fitness), (acquisto prodotti)>(Checkout), [trainer]-(vendita schede), (acquisto schede)<(accumulo punti), (acquisto prodotti)<(accumulo punti), (vendita schede)>(autenticazione trainer),[moderatore]-(gestire l'ordine nel forum),(gestire l'ordine nel forum)<(chiudere discussioni),(gestire l'ordine nel forum)<(rispondere a domande),[amministratore]-(modifica forum),(modifica forum)<(apportare cambiamenti),(modifica forum)<(espellere e creare utenti),[cliente]-(utilizzo forum),[amministratore]-(utilizzo forum),[moderatore]-(utilizzo forum)" >
