@@ -73,10 +73,12 @@ all'interno del sito pagando un abbonamento.
 
 
 user story:<br><br>
-come cliente<br>
-voglio informarmi ed essere seguito da un personal trainer<br>
-in modo che possa migliorare il mio allenamento<br><br><br>
-come trainer<br>
-voglio vendere i miei servizi<br>
-in modo da guadagnare<br><br><br>
-
+-come personal trainer,<br>
+-voglio vendere i miei servizi,<br>
+-in modo da avere una fonte di guadagno.<br><br><br>
+-come cliente con poche conoscenze,<br>
+-voglio informarmi ed essere seguito da un personal trainer,<br>
+-in modo che possa migliorare il mio allenamento.<br><br><br>
+-come cliente inesperto,<br>
+-voglio condividere le mie domande su un forum,<br>
+-in modo che altri utenti mi possano rispondere.<br><br><br>
