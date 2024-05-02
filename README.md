@@ -56,6 +56,31 @@ I moderatori e amministratori dispongono della propria etichetta (blu per i mode
 I moderatori hanno il compito di gestire quelli che sono i messaggi postati dagli utenti, chiudere discussioni non consone, gestire l'ordine all'interno del forum e rispondere ad eventuali domande.<br>
 Gli amministratori possono chiudere il forum, modificarlo, apportare cambiamenti al software, espellere, cancellare o creare utenti.<br><br>
 
+**Capitolo Pivot:**
+
+Dopo aver esaminato attentamente le esigenze del mercato e ascoltato i feedback degli utenti, abbiamo fatto dei cambiamenti importanti al nostro progetto per renderlo più adatto alle richieste nel mondo del fitness online.
+
+**Nuovi Obiettivi:**
+
+1. **Personalizzazione dell'esperienza:** Ora diamo agli utenti la possibilità di creare profili dettagliati con i loro obiettivi di fitness. Inoltre, offriamo consigli e programmi di allenamento personalizzati basati sulle loro esigenze specifiche.
+
+2. **Marketplace per servizi fitness:** Abbiamo trasformato la piattaforma in un posto dove gli utenti possono trovare una vasta gamma di servizi fitness, come personal trainer e nutrizionisti. Questo aiuta sia gli utenti che i fornitori di servizi.
+
+3. **Monitoraggio avanzato:** Abbiamo aggiunto strumenti migliori per tenere traccia dei progressi di fitness, come statistiche dettagliate sulle prestazioni e suggerimenti basati sui dati.
+
+4. **Tecnologie innovative:** Ora utilizziamo tecnologie come l'intelligenza artificiale per migliorare l'esperienza utente e offrire suggerimenti personalizzati.
+
+**Cosa ci aspettiamo:**
+
+1. **Utenti più felici:** Con questi cambiamenti, pensiamo che più persone continueranno ad utilizzare la piattaforma perché offre un'esperienza più personalizzata e una varietà più ampia di servizi.
+
+2. **Più entrate:** Prevediamo di guadagnare di più grazie alle commissioni sui servizi venduti e agli abbonamenti premium che offriamo.
+
+3. **Comunità più grande:** Speriamo che più persone si uniranno alla nostra community ora che offriamo una gamma più ampia di servizi e possibilità di interazione.
+
+Con questi cambiamenti, vogliamo continuare a migliorare il nostro progetto per soddisfare sempre meglio le esigenze dei nostri utenti e del mercato.
+
+
 STUDIO DI FATTIBILITA':<br>
 i costi saranno principalmente caratterizzati dalla creazione e manutenzione del sito, e della rivendita dei prodotti.<br>
 le fonti di guadagno sono caratterizzate da una percentuale dei servizi venduti dai trainer e dalla rivendita dei prodotti, inoltre è presente una funzione che permette ai trainer di aumentare la loro visibilità per un periodo limitato di tempo
