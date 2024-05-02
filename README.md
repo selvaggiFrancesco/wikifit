@@ -1,5 +1,11 @@
-**Progetto di piattaforma fitness con Multitenancy**
 
+
+**Progetto di piattaforma fitness**
+Il sito è formato da tre grandi sezioni: "esplora" è un insieme di informazioni riguardanti gli esercizi e i piani di allenamento, informando l'utente e ampliando la sua conoscenza. "allenati" fornisce un confronto tra personal trainer e clienti, in modo tale da creare piani di allenamento e schede personalizzate alle esigenze di chi si deve allenare (il profilo del personal trainer sarà compilato da lui/lei stesso/a, allegando certificazioni e specializzazioni in modo tale da essere raggiunto da clienti con obiettivi che coincidono con la preparazione e l'esperienza del trainer). "acquista" è come se fosse un negozio online di integratori e accessori per la palestra, è presente una raccolta punti che, in base al punteggio permette di ricevere sconti, avere la consegna gratis e riscuotere prodotti in omaggio.<br>
+È inoltre presente un forum per la community che consente agli utenti di mettersi in cotatto tra di loro e conversare discutendo attraverso messaggi scritti, c'è la possibilità di creare un avatar per personalizzare il proprio profilo.<br>
+I moderatori e amministratori dispongono della propria etichetta (blu per i moderatori, rossa per gli amministratori) che li contraddistingue dagli ospiti.<br>
+I moderatori hanno il compito di gestire quelli che sono i messaggi postati dagli utenti, chiudere discussioni non consone, gestire l'ordine all'interno del forum e rispondere ad eventuali domande.<br>
+Gli amministratori possono chiudere il forum, modificarlo, apportare cambiamenti al software, espellere, cancellare o creare utenti.<br><br>
 **Requisiti funzionali:**
 
 - **Registrazione dell'utente:** La piattaforma consente agli utenti di registrarsi fornendo le informazioni necessarie come nome, indirizzo e-mail e password.
@@ -50,13 +56,8 @@ La piattaforma è progettata per supportare il multitenancy, consentendo a più 
 <br>
 <br><br><br>
 
-Il sito è formato da tre grandi sezioni: "esplora" è un insieme di informazioni riguardanti gli esercizi e i piani di allenamento, informando l'utente e ampliando la sua conoscenza. "allenati" fornisce un confronto tra personal trainer e clienti, in modo tale da creare piani di allenamento e schede personalizzate alle esigenze di chi si deve allenare (il profilo del personal trainer sarà compilato da lui/lei stesso/a, allegando certificazioni e specializzazioni in modo tale da essere raggiunto da clienti con obiettivi che coincidono con la preparazione e l'esperienza del trainer). "acquista" è come se fosse un negozio online di integratori e accessori per la palestra, è presente una raccolta punti che, in base al punteggio permette di ricevere sconti, avere la consegna gratis e riscuotere prodotti in omaggio.<br>
-È inoltre presente un forum per la community che consente agli utenti di mettersi in cotatto tra di loro e conversare discutendo attraverso messaggi scritti, c'è la possibilità di creare un avatar per personalizzare il proprio profilo.<br>
-I moderatori e amministratori dispongono della propria etichetta (blu per i moderatori, rossa per gli amministratori) che li contraddistingue dagli ospiti.<br>
-I moderatori hanno il compito di gestire quelli che sono i messaggi postati dagli utenti, chiudere discussioni non consone, gestire l'ordine all'interno del forum e rispondere ad eventuali domande.<br>
-Gli amministratori possono chiudere il forum, modificarlo, apportare cambiamenti al software, espellere, cancellare o creare utenti.<br><br>
 
-**Capitolo Pivot:**
+**Pivot:**
 
 Dopo aver esaminato attentamente le esigenze del mercato e ascoltato i feedback degli utenti, abbiamo fatto dei cambiamenti importanti al nostro progetto per renderlo più adatto alle richieste nel mondo del fitness online.
 
@@ -81,10 +82,11 @@ Dopo aver esaminato attentamente le esigenze del mercato e ascoltato i feedback 
 Con questi cambiamenti, vogliamo continuare a migliorare il nostro progetto per soddisfare sempre meglio le esigenze dei nostri utenti e del mercato.
 
 
-STUDIO DI FATTIBILITA':<br>
+**STUDIO DI FATTIBILITA':**<br>
 i costi saranno principalmente caratterizzati dalla creazione e manutenzione del sito, e della rivendita dei prodotti.<br>
 le fonti di guadagno sono caratterizzate da una percentuale dei servizi venduti dai trainer e dalla rivendita dei prodotti, inoltre è presente una funzione che permette ai trainer di aumentare la loro visibilità per un periodo limitato di tempo
 all'interno del sito pagando un abbonamento.
+
 
 
 
